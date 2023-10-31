@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec3465406ba45a4f85315e2fc1a4de9, type: 3}
+  m_Name: Kamien
+  m_EditorClassIdentifier: 
+  Name: "Kamie\u0144"
+  stackable: 1
+  icon: {fileID: 21300000, guid: 9156ebc779c4dde4d87a953183b553c3, type: 3}
